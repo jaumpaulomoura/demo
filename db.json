@@ -1,14 +1,25 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "dados" : [
+   {
+       "title": "A Corebiz Atua em toda Jornada do Cliente",
+       "imgUrl":"https://unsplash.com/photos/6ybGCLrzy_w",
+       "thumb": "https://unsplash.com/photos/6ybGCLrzy_w","
+   },
+   {
+       "title": "Trabalhos feitos com as melhores tecnologias",
+      "imgUrl": "https://unsplash.com/photos/L85a1k-XqH8",
+       "thumb": "https://unsplash.com/photos/L85a1k-XqH8"
+   },
+   {
+       "title": "Time unido com desempenho otimizado",
+       "imgUrl": "https://unsplash.com/photos/fotKKqWNMQ4",
+       "thumb": "https://unsplash.com/photos/fotKKqWNMQ4"
+   },
+   {
+       "title": "Vem conhecer a Corebiz e se encante",
+       "imgUrl": "https://unsplash.com/photos/qeij_dhDhGg",
+       "thumb": "https://unsplash.com/photos/qeij_dhDhGg"
+   }
+
+]
 }
